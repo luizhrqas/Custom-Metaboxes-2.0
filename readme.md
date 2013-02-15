@@ -1,7 +1,6 @@
 # Custom Metaboxes 2.0
 
 **Contributors**:
-
 * Henrique Almeida ( [@luizhrqas](http://twitter.com/luizhrqas) / [henriquealmeida.net](http://henriquealmeida.net) )
 * Andrew Norcross ( [@norcross](http://twitter.com/norcross ) / [andrewnorcross.com](http://andrewnorcross.com/) )
 * Jared Atchison ( [@jaredatch](http://twitter.com/jaredatch ) / [jaredatchison.com](http://jaredatchison.com/) )
